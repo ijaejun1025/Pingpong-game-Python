@@ -1,6 +1,6 @@
 # Pingpong_game-Python
 
-This is the pingpong game using Python turtle graphics.
+This is the pingpong game project using Python turtle graphics.
 
 ## Game play picture
 
